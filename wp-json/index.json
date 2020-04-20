@@ -1,8 +1,8 @@
 {
     "name": "Gusta - Design, Strategy & Communication",
     "description": "Born in the digital age, we tell stories and build products together with the brands that are shaping our future",
-    "url": "http:\/\/animal.cc\/wp",
-    "home": "https:\/\/animal.cc",
+    "url": "http:\/\/gusta.ltd\/wp",
+    "home": "https:\/\/gusta.ltd",
     "gmt_offset": 2,
     "timezone_string": "Europe\/Stockholm",
     "namespaces": ["oembed\/1.0", "jetpack\/v4", "redirection\/v1", "wpcom\/v2", "wp\/v2"],
@@ -22,7 +22,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/"
                 }]
             }
         },
@@ -44,7 +44,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/oembed\/1.0"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/oembed\/1.0"
                 }]
             }
         },
@@ -69,7 +69,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/oembed\/1.0\/embed"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/oembed\/1.0\/embed"
                 }]
             }
         },
@@ -112,7 +112,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/oembed\/1.0\/proxy"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/oembed\/1.0\/proxy"
                 }]
             }
         },
@@ -134,7 +134,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4"
                 }]
             }
         },
@@ -147,7 +147,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/plans"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/plans"
                 }]
             }
         },
@@ -160,7 +160,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/products"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/products"
                 }]
             }
         },
@@ -173,7 +173,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/marketing\/survey"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/marketing\/survey"
                 }]
             }
         },
@@ -189,7 +189,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/jitm"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/jitm"
                 }]
             }
         },
@@ -202,7 +202,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/remote_authorize"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/remote_authorize"
                 }]
             }
         },
@@ -218,7 +218,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection"
                 }]
             }
         },
@@ -231,7 +231,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/test"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/test"
                 }]
             }
         },
@@ -244,7 +244,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/test-wpcom"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/test-wpcom"
                 }]
             }
         },
@@ -257,7 +257,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/rewind"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/rewind"
                 }]
             }
         },
@@ -270,7 +270,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/url"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/url"
                 }]
             }
         },
@@ -283,7 +283,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/data"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/data"
                 }]
             }
         },
@@ -301,7 +301,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/register"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/register"
                 }]
             }
         },
@@ -314,7 +314,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/owner"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/owner"
                 }]
             }
         },
@@ -335,7 +335,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/tracking\/settings"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/tracking\/settings"
                 }]
             }
         },
@@ -348,7 +348,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/connection\/user"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/connection\/user"
                 }]
             }
         },
@@ -361,7 +361,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/site"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/site"
                 }]
             }
         },
@@ -374,7 +374,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/site\/features"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/site\/features"
                 }]
             }
         },
@@ -387,7 +387,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/site\/purchases"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/site\/purchases"
                 }]
             }
         },
@@ -400,7 +400,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/site\/benefits"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/site\/benefits"
                 }]
             }
         },
@@ -413,7 +413,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/site\/activity"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/site\/activity"
                 }]
             }
         },
@@ -426,7 +426,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/identity-crisis\/confirm-safe-mode"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/identity-crisis\/confirm-safe-mode"
                 }]
             }
         },
@@ -439,7 +439,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/identity-crisis\/start-fresh"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/identity-crisis\/start-fresh"
                 }]
             }
         },
@@ -452,7 +452,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/identity-crisis\/migrate"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/identity-crisis\/migrate"
                 }]
             }
         },
@@ -465,7 +465,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/module\/all"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/module\/all"
                 }]
             }
         },
@@ -492,7 +492,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/module\/all\/active"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/module\/all\/active"
                 }]
             }
         },
@@ -1870,7 +1870,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/settings"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/settings"
                 }]
             }
         },
@@ -1904,7 +1904,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/updates\/plugins"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/updates\/plugins"
                 }]
             }
         },
@@ -1925,7 +1925,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/plugins"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/plugins"
                 }]
             }
         },
@@ -1938,7 +1938,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/plugins\/akismet\/activate"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/plugins\/akismet\/activate"
                 }]
             }
         },
@@ -2010,7 +2010,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/mobile\/send-login-email"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/mobile\/send-login-email"
                 }]
             }
         },
@@ -2032,7 +2032,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1"
                 }]
             }
         },
@@ -2108,7 +2108,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/redirect"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/redirect"
                 }]
             }
         },
@@ -2135,7 +2135,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/redirect\/post"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/redirect\/post"
                 }]
             }
         },
@@ -2264,7 +2264,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/group"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/group"
                 }]
             }
         },
@@ -2402,7 +2402,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/log"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/log"
                 }]
             }
         },
@@ -2521,7 +2521,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/404"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/404"
                 }]
             }
         },
@@ -2580,7 +2580,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/setting"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/setting"
                 }]
             }
         },
@@ -2607,7 +2607,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/plugin"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/plugin"
                 }]
             }
         },
@@ -2620,7 +2620,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/plugin\/delete"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/plugin\/delete"
                 }]
             }
         },
@@ -2633,7 +2633,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/plugin\/test"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/plugin\/test"
                 }]
             }
         },
@@ -2653,7 +2653,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/plugin\/database"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/plugin\/database"
                 }]
             }
         },
@@ -2677,7 +2677,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/redirection\/v1\/import\/plugin"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/redirection\/v1\/import\/plugin"
                 }]
             }
         },
@@ -2707,7 +2707,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2"
                 }]
             }
         },
@@ -2720,7 +2720,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/business-hours\/localized-week"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/business-hours\/localized-week"
                 }]
             }
         },
@@ -2733,7 +2733,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/mailchimp"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/mailchimp"
                 }]
             }
         },
@@ -2746,7 +2746,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/mailchimp\/groups"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/mailchimp\/groups"
                 }]
             }
         },
@@ -2773,7 +2773,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/gutenberg\/available-extensions"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/gutenberg\/available-extensions"
                 }]
             }
         },
@@ -2786,7 +2786,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/hello"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/hello"
                 }]
             }
         },
@@ -2799,7 +2799,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/memberships\/status"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/memberships\/status"
                 }]
             }
         },
@@ -2829,7 +2829,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/memberships\/product"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/memberships\/product"
                 }]
             }
         },
@@ -2842,7 +2842,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/publicize\/connections"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/publicize\/connections"
                 }]
             }
         },
@@ -2855,7 +2855,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/publicize\/connection-test-results"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/publicize\/connection-test-results"
                 }]
             }
         },
@@ -2868,7 +2868,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wpcom\/v2\/publicize\/services"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wpcom\/v2\/publicize\/services"
                 }]
             }
         },
@@ -2906,7 +2906,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/jetpack\/v4\/hints"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/jetpack\/v4\/hints"
                 }]
             }
         },
@@ -2928,7 +2928,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2"
                 }]
             }
         },
@@ -3200,7 +3200,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/posts"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/posts"
                 }]
             }
         },
@@ -3857,7 +3857,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/pages"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/pages"
                 }]
             }
         },
@@ -4471,7 +4471,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/media"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/media"
                 }]
             }
         },
@@ -4756,7 +4756,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/blocks"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/blocks"
                 }]
             }
         },
@@ -5092,7 +5092,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/feedback"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/feedback"
                 }]
             }
         },
@@ -5428,7 +5428,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/jp_pay_order"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/jp_pay_order"
                 }]
             }
         },
@@ -5797,7 +5797,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/jp_pay_product"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/jp_pay_product"
                 }]
             }
         },
@@ -6036,7 +6036,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/types"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/types"
                 }]
             }
         },
@@ -6078,7 +6078,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/statuses"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/statuses"
                 }]
             }
         },
@@ -6125,7 +6125,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/taxonomies"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/taxonomies"
                 }]
             }
         },
@@ -6269,7 +6269,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/categories"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/categories"
                 }]
             }
         },
@@ -6457,7 +6457,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/tags"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/tags"
                 }]
             }
         },
@@ -6692,7 +6692,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/users"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/users"
                 }]
             }
         },
@@ -6920,7 +6920,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/users\/me"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/users\/me"
                 }]
             }
         },
@@ -7141,7 +7141,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/comments"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/comments"
                 }]
             }
         },
@@ -7316,7 +7316,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/search"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/search"
                 }]
             }
         },
@@ -8786,7 +8786,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/settings"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/settings"
                 }]
             }
         },
@@ -8831,7 +8831,7 @@
             }],
             "_links": {
                 "self": [{
-                    "href": "https:\/\/animal.cc\/wp-json\/wp\/v2\/themes"
+                    "href": "https:\/\/gusta.ltd\/wp-json\/wp\/v2\/themes"
                 }]
             }
         }

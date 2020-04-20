@@ -927,7 +927,7 @@
             g = i(v),
             y = e("/Users/andreaslorentsson/Projects/animal/frontend/node_modules/bezier-easing"),
             x = i(y),
-            b = "https://animal.cc",
+            b = "https://gusta.ltd",
             _ = new x["default"](.55, .055, .675, .19),
             w = new x["default"](.645, .045, .355, 1),
             M = ["/application/themes/animal/images/napkins/napkin_1.png", 
