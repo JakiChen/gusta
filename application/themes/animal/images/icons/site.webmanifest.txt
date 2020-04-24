@@ -1,6 +1,6 @@
 {
-    "name": "GUSTA",
-    "short_name": "GUSTA",
+    "name": "Gusta",
+    "short_name": "Gusta",
     "icons": [
         {
             "src": "/application/themes/animal/images/icons/android-chrome-192x192.png",
