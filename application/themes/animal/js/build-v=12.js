@@ -2005,6 +2005,7 @@
                     }
                 }, {
                     key: "onLoadMoreClick",
+                    /*lodad more article*/
                     value: function () {
                         var e = this,
                             t = {
